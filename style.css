@@ -1,0 +1,61 @@
+.alert{
+    
+    padding:50px;
+    background-color: orangered;
+    width:50%;
+   margin-left:18%;
+   text-align: center;
+}
+
+
+.close{
+   
+    float: right;
+    cursor: pointer;
+    font-size: 40px;
+}
+
+.name {
+    font-family: Harlow Solid Italic;
+   height:50%;
+   width:55%;
+  
+   margin-left: 24%;
+    background-image: url(new.jpg);
+
+}
+.title h1{
+    color: rgb(0, 255, 128);
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+
+}
+
+.name p{
+    color:white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
+.box{
+    padding:50px;
+    background-color: lightpink;
+    width:70%;
+    height: 30%;
+   margin-left:10%;
+   color: deepskyblue;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+   
+}
+
+#demo{
+    color: deepskyblue;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
+.a{
+    color: rgb(0, 255, 128);
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px red;
+}
+
+.a span{
+    color: rgb(0, 255, 128);
+}
